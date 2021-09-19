@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T21:01:15.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Wq8wc1A0-MYFtBawbHAN" version="14.9.4" type="github"><diagram id="DDrW-n9PEh5tq1YqMT4o" name="Page-1">xZRLj5wwDMc/DcdWEHa7s9d59KX2sBqpj6M7cSGrgNlgBuinbxicYRDdUSu16gXhn+3E+dtJlG6K7o2DKv9IGm2kYt1F6TZS6m6l/HcA/QjSVTyCzBk9omQCe/MDBYawxmisZ4FMZNlUc3igssQDzxg4R+087DvZ+a4VZLgA+wPYJf1sNOcjXam7ib9Fk+Vh5+TV/egpIATLSeocNLUXKN1F6cYR8fhXdBu0g3ZBlzHv9TPec2EOS/6dhLpY36/f6eT94+3DU/tQfXpSxxep1MZ9ODBqf34xyXFOGZVgdxNdO2pKjcOqsbemmA9ElYeJh4/I3EszoWHyKOfCitcX7Povkn8yvg7Gy9tgbrtL57YXa6x1KPBZCQTV1LgDXjl3GCVwGfKVOHVulB9wpAJ9PT7PoQU2x3kdIKOWneOmbvgfacgfNEfWPYJtZCc/5WzKBoZUi+BKU2aLDk79GcRuc8O4r+AkR+vv6LwXsgU6xu66qksVJCEMuNxwlYrdTvclCTH5xV25if+Rbmqhm8PKwlDyN6i9Mv9bsWQ1lyyJfyHZzd+RzJvTG3PyXTzU6e4n</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-19T21:02:09.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OA5Ch2C5KF3G_PKCZGwf" version="14.9.4" type="github">
+  <diagram id="DDrW-n9PEh5tq1YqMT4o" name="Page-1">
+    <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="smB9BId1Jj5QqwQpVq2v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="smB9BId1Jj5QqwQpVq2v-1" target="smB9BId1Jj5QqwQpVq2v-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smB9BId1Jj5QqwQpVq2v-1" value="continual learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="smB9BId1Jj5QqwQpVq2v-2" value="replay based" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqa-l7zWznGf6p7mvLSF-1" value="replay based" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
