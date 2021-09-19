@@ -1,20 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T21:02:09.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OA5Ch2C5KF3G_PKCZGwf" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-19T21:09:04.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Yx36mzJ1hIcRzXNQTebq" version="14.9.4" type="github">
   <diagram id="DDrW-n9PEh5tq1YqMT4o" name="Page-1">
-    <mxGraphModel dx="782" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="smB9BId1Jj5QqwQpVq2v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="smB9BId1Jj5QqwQpVq2v-1" target="smB9BId1Jj5QqwQpVq2v-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qqa-l7zWznGf6p7mvLSF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="smB9BId1Jj5QqwQpVq2v-1" target="qqa-l7zWznGf6p7mvLSF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="smB9BId1Jj5QqwQpVq2v-1" value="continual learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="smB9BId1Jj5QqwQpVq2v-2" value="replay based" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qqa-l7zWznGf6p7mvLSF-1" value="replay based" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qqa-l7zWznGf6p7mvLSF-1" value="dynamic architecture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="170" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqa-l7zWznGf6p7mvLSF-3" value="Regularization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
